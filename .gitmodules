@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/Noob1Code/Gestao-de-Estoque-e-Caixa-front.git
+[submodule "back"]
+	path = back
+	url = https://github.com/GabrielGRCheim/Sistema_de_Gest-o_de_Estoque_e_Caixa.git
