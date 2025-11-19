@@ -1,0 +1,18 @@
+# Ignorar configuração do VS Code
+.vscode/
+
+# Ignorar configurações do IntelliJ IDEA
+.idea/
+
+# Ignorar a pasta target (build do Maven)
+target/
+
+# Ignorar arquivos gerados no backend (caso tenha subpasta "back")
+back/.idea/
+back/target/
+back/.vscode/
+
+# Ignorar arquivos gerados no backend (caso tenha subpasta "back")
+front/.idea/
+front/target/
+front/.vscode/
