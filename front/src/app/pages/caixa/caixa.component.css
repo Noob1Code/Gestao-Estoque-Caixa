@@ -1,0 +1,4 @@
+:host ::ng-deep .p-autocomplete,
+:host ::ng-deep .p-inputnumber {
+  width: 100%;
+}
